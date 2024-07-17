@@ -9,7 +9,7 @@ import { MdOutlineShoppingBag } from "react-icons/md";
 const Header1 = () => {
     return (
         <>
-            <section id="Home" className='section1'>
+            <section id="Home" className='section1 px-20'>
                 <nav>
                     <div className="logo">
                         <span>Foodle</span>
